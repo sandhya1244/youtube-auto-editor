@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+.next/
+.DS_Store
+data/uploads/*
+data/renders/*
+data/tokens/*
+!data/uploads/.gitkeep
+!data/renders/.gitkeep
+!data/tokens/.gitkeep
